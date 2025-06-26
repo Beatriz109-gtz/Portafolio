@@ -1,3 +1,3 @@
 # Portafolio
 Portafolio de envidencias
-<a href="Index.html">Ir a pagina principal</a>
+<a href="curso/Index.html">Ir a pagina principal</a>
